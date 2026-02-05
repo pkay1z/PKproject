@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Playwright reports / test results
+test-results/
+playwright-report/
+
+# Optional: logs
+*.log
