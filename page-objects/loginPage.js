@@ -48,13 +48,3 @@ verifyOtp = async() =>{
 
 
 
-// await page.getByText('ng', { exact: true }).click();
-//   await page.locator('.ant-select-item-option-content').first().click();
-//   await page.getByPlaceholder('07000000000').click();
-//   await page.getByPlaceholder('07000000000').fill('8033241189');
-//   await page.getByPlaceholder('07000000000').click();
-//   await page.getByRole('button', { name: 'Sign in' }).click();
-//   await page.getByPlaceholder('• • • • • •').click();
-//   await page.getByPlaceholder('• • • • • •').fill('123456');
-//   await page.getByRole('button', { name: 'Verify & Continue' }).click();
-// });

@@ -19,9 +19,7 @@ export class PaymentPage{
 }
 
 payOrder = async()=>{
-  // await this.page.pause();
-  // await this.card.waitFor();
-  // await this.card.click();
+  
  
   await this.frameLocator.getByText('Use any of the options below to test').waitFor({ timeout: 15000 });
   await this.successRadio.click();

@@ -16,7 +16,7 @@ export class CheckoutPage{
     await this.order.waitFor();
     await this.order.click();
   
-    // await this.page.pause();
+  
 
   }
 
